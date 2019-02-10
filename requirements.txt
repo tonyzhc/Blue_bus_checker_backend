@@ -1,0 +1,4 @@
+chalice
+pyquery
+datetime
+requests
